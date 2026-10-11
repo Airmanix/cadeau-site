@@ -4,6 +4,43 @@
 window.MEDIA = {
   "photos": [
     {
+      "src": "photos/1.jpg"
+    },
+    {
+      "src": "photos/10.jpg"
+    },
+    {
+      "src": "photos/11 (2).jpg",
+      "title": "(2)"
+    },
+    {
+      "src": "photos/11.jpg"
+    },
+    {
+      "src": "photos/2.jpg"
+    },
+    {
+      "src": "photos/3.jpg"
+    },
+    {
+      "src": "photos/4.jpg"
+    },
+    {
+      "src": "photos/5.jpg"
+    },
+    {
+      "src": "photos/6.jpg"
+    },
+    {
+      "src": "photos/7.jpg"
+    },
+    {
+      "src": "photos/8.jpg"
+    },
+    {
+      "src": "photos/9.jpg"
+    },
+    {
       "src": "photos/Avec Berme.jpg",
       "title": "Avec Berme"
     },
@@ -22,10 +59,6 @@ window.MEDIA = {
     {
       "src": "photos/Avec Marie-Jo, Kethia et Berme.jpg",
       "title": "Avec Marie Jo, Kethia et Berme"
-    },
-    {
-      "src": "photos/Avec Marie-Jo, Kethia,Imma et Berme.jpg",
-      "title": "Avec Marie Jo, Kethia,Imma et Berme"
     },
     {
       "src": "photos/Avec Marie-Jo.jpg",
@@ -52,10 +85,6 @@ window.MEDIA = {
       "title": "AvecKethia"
     },
     {
-      "src": "photos/AvecMarie-Jo et Berme.jpg",
-      "title": "AvecMarie Jo et Berme"
-    },
-    {
       "src": "photos/AvecMarie-Jo.jpg",
       "title": "AvecMarie Jo"
     },
@@ -66,58 +95,6 @@ window.MEDIA = {
     {
       "src": "photos/AvecMarieJo.jpg",
       "title": "AvecMarieJo"
-    },
-    {
-      "src": "photos/fr17.jpg",
-      "title": "Fr17"
-    },
-    {
-      "src": "photos/IMG-20260929-WA0029.jpg",
-      "title": "IMG 20260929 WA0029"
-    },
-    {
-      "src": "photos/IMG-20260929-WA0030.jpg",
-      "title": "IMG 20260929 WA0030"
-    },
-    {
-      "src": "photos/IMG-20261001-WA0006.jpg",
-      "title": "IMG 20261001 WA0006"
-    },
-    {
-      "src": "photos/IMG-20261001-WA0009.jpg",
-      "title": "IMG 20261001 WA0009"
-    },
-    {
-      "src": "photos/IMG-20261001-WA0015.jpg",
-      "title": "IMG 20261001 WA0015"
-    },
-    {
-      "src": "photos/IMG-20261001-WA0017.jpg",
-      "title": "IMG 20261001 WA0017"
-    },
-    {
-      "src": "photos/IMG-20261001-WA0023.jpg",
-      "title": "IMG 20261001 WA0023"
-    },
-    {
-      "src": "photos/IMG-20261001-WA0025.jpg",
-      "title": "IMG 20261001 WA0025"
-    },
-    {
-      "src": "photos/IMG-20261001-WA0027.jpg",
-      "title": "IMG 20261001 WA0027"
-    },
-    {
-      "src": "photos/IMG-20261001-WA0028.jpg",
-      "title": "IMG 20261001 WA0028"
-    },
-    {
-      "src": "photos/IMG-20261005-WA0043.jpg",
-      "title": "IMG 20261005 WA0043"
-    },
-    {
-      "src": "photos/IMG-20261005-WA0045.jpg",
-      "title": "IMG 20261005 WA0045"
     },
     {
       "src": "photos/Marie-Jo, Kethia,Imma,Taty et Berme.jpg",
@@ -160,6 +137,10 @@ window.MEDIA = {
     {
       "src": "videos/Nous Toutes.mp4",
       "title": "Nous Toutes"
+    },
+    {
+      "src": "videos/VID-20261001-WA0038.mp4",
+      "title": "VID 20261001 WA0038"
     },
     {
       "src": "videos/Yourself.mp4",

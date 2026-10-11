@@ -126,5 +126,5 @@ window.CONFIG = {
   // Musique de fond (optionnelle) : mettez un fichier dans music/ puis son chemin ici.
   // Exemple : "music/chanson.mp3"   — laissez "" pour ne pas avoir de musique.
   // Elle démarre quand la personne clique sur « Entrer ».
-  music: ""
+  music: "music/musique.mp3"
 };
