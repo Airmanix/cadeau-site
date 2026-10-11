@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#1b1230">
+  <title>Un cadeau pour toi</title>
+  <meta name="description" content="Une surprise préparée avec amour par tes amis.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Great+Vibes&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="locked">
+
+  <canvas id="confetti" aria-hidden="true"></canvas>
+  <div class="petals" id="petals" aria-hidden="true"></div>
+
+  <button id="musicBtn" class="music-btn" aria-label="Musique" hidden>♪</button>
+
+  <!-- 1. ACCUEIL -->
+  <header class="hero" id="hero">
+    <div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div>
+    <p class="eyebrow" id="eyebrow"></p>
+    <h1 class="script-name" id="name"></h1>
+    <p class="subtitle" id="subtitle"></p>
+    <a class="scroll-hint" href="#gate" aria-label="Faire défiler">
+      <span>scroll</span><i></i>
+    </a>
+  </header>
+
+  <!-- 2. BOUGIES -->
+  <section class="gate" id="gate">
+    <div class="stars" aria-hidden="true"></div>
+    <p class="eyebrow light" id="gateEyebrow">Une petite surprise</p>
+    <h2 class="gate-title" id="gateTitle"></h2>
+    <div class="candles" id="candles"></div>
+    <p class="gate-hint" id="gateHint"></p>
+  </section>
+
+  <main id="content" hidden>
+
+    <!-- 3. ENVELOPPE -->
+    <section class="letter-section" id="letterSection">
+      <p class="eyebrow">Un mot pour toi</p>
+      <div class="envelope-wrap">
+        <button class="envelope" id="envelope" aria-label="Ouvrir l'enveloppe">
+          <span class="env-back"></span>
+          <span class="env-letter"><span class="env-lines"></span></span>
+          <span class="env-front"></span>
+          <span class="env-flap"></span>
+          <span class="env-seal">♡</span>
+        </button>
+        <p class="env-hint" id="envHint"></p>
+      </div>
+      <article class="letter" id="letter" hidden>
+        <h3 id="letterGreeting"></h3>
+        <div id="letterBody"></div>
+        <p class="signature" id="letterSign"></p>
+      </article>
+    </section>
+
+    <!-- 4. PHOTOS -->
+    <section class="block" id="gallerySection">
+      <header class="block-head">
+        <p class="eyebrow" id="galEyebrow"></p>
+        <h2 id="galTitle"></h2>
+        <p class="intro" id="galIntro"></p>
+        <div class="ornament"><span></span><b>❀</b><span></span></div>
+      </header>
+      <div class="gallery" id="gallery"></div>
+    </section>
+
+    <!-- 5. VIDÉOS -->
+    <section class="block dark-block" id="videoSection">
+      <header class="block-head">
+        <p class="eyebrow light" id="vidEyebrow"></p>
+        <h2 id="vidTitle"></h2>
+        <p class="intro" id="vidIntro"></p>
+        <div class="ornament"><span></span><b>❀</b><span></span></div>
+      </header>
+      <div class="videos" id="videos"></div>
+    </section>
+
+    <!-- 6. MESSAGES -->
+    <section class="block" id="messagesSection">
+      <header class="block-head">
+        <p class="eyebrow" id="msgEyebrow"></p>
+        <h2 id="msgTitle"></h2>
+        <div class="ornament"><span></span><b>❀</b><span></span></div>
+      </header>
+      <div class="messages" id="messages"></div>
+    </section>
+
+    <!-- 7. VŒUX -->
+    <section class="block wishes-block" id="wishesSection">
+      <header class="block-head">
+        <h2 id="wishTitle"></h2>
+        <div class="ornament"><span></span><b>❀</b><span></span></div>
+      </header>
+      <div class="wishes" id="wishes"></div>
+    </section>
+
+    <footer class="finale">
+      <div class="hearts">♡ ♡ ♡</div>
+      <p class="script-line" id="finale"></p>
+      <p class="credit" id="footer"></p>
+      <button class="again" id="replay">Revoir depuis le début</button>
+    </footer>
+  </main>
+
+  <!-- Lightbox -->
+  <div class="lightbox" id="lightbox" hidden role="dialog" aria-modal="true" aria-label="Visionneuse">
+    <button class="lb-close" id="lbClose" aria-label="Fermer">✕</button>
+    <button class="lb-nav prev" id="lbPrev" aria-label="Précédente">‹</button>
+    <figure>
+      <img id="lbImg" alt="">
+      <figcaption id="lbCap"></figcaption>
+    </figure>
+    <button class="lb-nav next" id="lbNext" aria-label="Suivante">›</button>
+    <div class="lb-count" id="lbCount"></div>
+  </div>
+
+  <script src="config.js"></script>
+  <script src="media.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
