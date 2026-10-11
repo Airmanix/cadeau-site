@@ -36,7 +36,7 @@
 
   /* ---------- Textes ---------- */
   var name = C.name || "";
-  document.title = name ? "Pour " + name + " — un hommage de tes amis" : document.title;
+  document.title = name ? "Pour " + name + " — un hommage de tes amies" : document.title;
   var sp = C.splash || {}, H = C.hero || {}, N = C.nav || {};
   setText("splashName", name); setText("splashLine", sp.line); setText("enter", sp.button || "Entrer");
   setText("brand", C.brand); setText("heroName", name);

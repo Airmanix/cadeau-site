@@ -10,15 +10,15 @@ window.CONFIG = {
 
   // Écran d'entrée (le « générique »)
   splash: {
-    line: "Un hommage de tes amis",
+    line: "Un hommage de tes amies",
     button: "Entrer"
   },
 
   // Haut de page
   brand: "Pour Eunice",
   hero: {
-    tagline: "Un hommage de tes amis",
-    text: "On s'est réunis pour te dire merci : pour les rires, les conseils, les sorties et tout ce que tu es. Voici nos souvenirs, nos voix et nos mots, rassemblés rien que pour toi.",
+    tagline: "Un hommage de tes amies",
+    text: "On s'est réunies pour te dire merci : pour les rires, les conseils, les sorties et tout ce que tu es. Voici nos souvenirs, nos voix et nos mots, rassemblés rien que pour toi.",
     primary: "Voir les souvenirs",
     secondary: "Lire la lettre"
   },
@@ -40,7 +40,7 @@ window.CONFIG = {
   // Rangée de vidéos
   videos: {
     title: "Nos vidéos",
-    intro: "Mets le son. Chaque vidéo est un message de l'un d'entre nous."
+    intro: "Mets le son. Chaque vidéo est un message de l'une d'entre nous."
   },
 
   // Messages des amis : une ligne par personne.
@@ -48,10 +48,10 @@ window.CONFIG = {
   messages: {
     title: "Ce qu'on voulait te dire",
     items: [
-      { from: "Prénom 1", text: "Écris ici le message de la première personne. Quelques lignes suffisent, sincères et simples." },
-      { from: "Prénom 2", text: "Écris ici le message de la deuxième personne." },
-      { from: "Prénom 3", text: "Écris ici le message de la troisième personne." },
-      { from: "Prénom 4", text: "Écris ici le message de la quatrième personne." }
+      { from: "Marie-Jo", text: "Eunice, tu fais partie de ces personnes qui rendent tout plus léger rien qu'en étant là. Merci pour ta présence, tes conseils et ton grand cœur. Je suis fière de t'avoir comme amie." },
+      { from: "Berme", text: "Ce que j'admire chez toi, c'est que tu es vraie avec tout le monde. Avec toi, pas besoin de faire semblant, et ça n'a pas de prix. Merci d'être cette amie-là." },
+      { from: "Imma", text: "Merci pour les rires, les fous rires même, et pour toutes les fois où tu as su trouver les mots justes. Que la vie te rende tout le bonheur que tu donnes autour de toi." },
+      { from: "Tatiana", text: "Tu es la preuve qu'on peut être douce et forte à la fois. Je te souhaite de beaux projets, des rêves qui se réalisent, et des gens qui te traitent comme tu les traites : avec amour. Je suis là, toujours." }
     ]
   },
 
@@ -59,18 +59,18 @@ window.CONFIG = {
   letter: {
     greeting: "Chère Eunice,",
     paragraphs: [
-      "Pas besoin d'une date particulière pour te dire merci. Nous avons simplement eu envie de nous arrêter un moment, tous ensemble, pour te dire ce que tu représentes pour nous.",
-      "Alors nous avons fouillé nos téléphones, nos souvenirs et nos fous rires, pour te composer ce petit coin rien qu'à toi : des photos, des vidéos, des mots sincères de chacun d'entre nous.",
+      "Pas besoin d'une date particulière pour te dire merci. Nous avons simplement eu envie de nous arrêter un moment, toutes ensemble, pour te dire ce que tu représentes pour nous.",
+      "Alors nous avons fouillé nos téléphones, nos souvenirs et nos fous rires, pour te composer ce petit coin rien qu'à toi : des photos, des vidéos, des mots sincères de chacune d'entre nous.",
       "Prends ton temps. Regarde, souris, et surtout sache une chose : tu comptes énormément pour nous."
     ],
-    signature: "Avec toute notre amitié, tes amis"
+    signature: "Avec toute notre amitié, Marie-Jo, Berme, Imma et Tatiana"
   },
 
   // Fin de page
   finale: {
     title: "Merci d'être toi.",
     text: "Avec toute notre amitié.",
-    footer: "Fait avec amour par tes amis",
+    footer: "Fait avec amour par Marie-Jo, Berme, Imma et Tatiana",
     replay: "Revenir en haut"
   },
 
@@ -119,7 +119,7 @@ window.CONFIG = {
       "Ça valait le coup d'être filmé",
       "Spécial toi, vraiment",
       "Le moment qu'on n'oubliera pas",
-      "Dans les coulisses de ton équipe d'amis"
+      "Dans les coulisses de tes amies"
     ]
   },
 
