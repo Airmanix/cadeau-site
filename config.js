@@ -51,7 +51,8 @@ window.CONFIG = {
       { from: "Marie-Jo", text: "Eunice, tu fais partie de ces personnes qui rendent tout plus léger rien qu'en étant là. Merci pour ta présence, tes conseils et ton grand cœur. Je suis fière de t'avoir comme amie." },
       { from: "Berme", text: "Ce que j'admire chez toi, c'est que tu es vraie avec tout le monde. Avec toi, pas besoin de faire semblant, et ça n'a pas de prix. Merci d'être cette amie-là." },
       { from: "Imma", text: "Merci pour les rires, les fous rires même, et pour toutes les fois où tu as su trouver les mots justes. Que la vie te rende tout le bonheur que tu donnes autour de toi." },
-      { from: "Tatiana", text: "Tu es la preuve qu'on peut être douce et forte à la fois. Je te souhaite de beaux projets, des rêves qui se réalisent, et des gens qui te traitent comme tu les traites : avec amour. Je suis là, toujours." }
+      { from: "Tatiana", text: "Tu es la preuve qu'on peut être douce et forte à la fois. Je te souhaite de beaux projets, des rêves qui se réalisent, et des gens qui te traitent comme tu les traites : avec amour. Je suis là, toujours." },
+      { from: "Kethia", text: "Eunice, merci d'être cette amie sur qui on peut toujours compter. Ton sourire et ta bonté font du bien à tout le monde autour de toi. Je te souhaite autant de joie que tu en donnes, et je suis fière de faire partie de ton cercle." }
     ]
   },
 
@@ -63,14 +64,14 @@ window.CONFIG = {
       "Alors nous avons fouillé nos téléphones, nos souvenirs et nos fous rires, pour te composer ce petit coin rien qu'à toi : des photos, des vidéos, des mots sincères de chacune d'entre nous.",
       "Prends ton temps. Regarde, souris, et surtout sache une chose : tu comptes énormément pour nous."
     ],
-    signature: "Avec toute notre amitié, Marie-Jo, Berme, Imma et Tatiana"
+    signature: "Avec toute notre amitié, Marie-Jo, Berme, Imma, Tatiana et Kethia"
   },
 
   // Fin de page
   finale: {
     title: "Merci d'être toi.",
     text: "Avec toute notre amitié.",
-    footer: "Fait avec amour par Marie-Jo, Berme, Imma et Tatiana",
+    footer: "Fait avec amour par Marie-Jo, Berme, Imma, Tatiana et Kethia",
     replay: "Revenir en haut"
   },
 
