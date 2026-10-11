@@ -1,172 +1,169 @@
-/* Fichier généré par build_media.py — relancez le script après avoir ajouté des fichiers. */
+/* Fichier généré par build_media.py — relancez le script après avoir ajouté des fichiers.
+   Vous pouvez aussi y écrire/modifier à la main un "title" pour n'importe quelle photo ou vidéo. */
 
 window.MEDIA = {
   "photos": [
     {
-      "src": "photos/fr1.jpg",
-      "caption": "fr1"
+      "src": "photos/Avec Berme.jpg",
+      "title": "Avec Berme"
     },
     {
-      "src": "photos/fr10.jpg",
-      "caption": "fr10"
+      "src": "photos/Avec Kethia,Marie-Jo et Berme.jpg",
+      "title": "Avec Kethia,Marie Jo et Berme"
     },
     {
-      "src": "photos/fr11.jpg",
-      "caption": "fr11"
+      "src": "photos/Avec Kethia.jpg",
+      "title": "Avec Kethia"
     },
     {
-      "src": "photos/fr12.jpg",
-      "caption": "fr12"
+      "src": "photos/Avec Marie-Jo, Imma et Tatiana.jpg",
+      "title": "Avec Marie Jo, Imma et Tatiana"
     },
     {
-      "src": "photos/fr13.jpg",
-      "caption": "fr13"
+      "src": "photos/Avec Marie-Jo, Kethia et Berme.jpg",
+      "title": "Avec Marie Jo, Kethia et Berme"
     },
     {
-      "src": "photos/fr14.jpg",
-      "caption": "fr14"
+      "src": "photos/Avec Marie-Jo, Kethia,Imma et Berme.jpg",
+      "title": "Avec Marie Jo, Kethia,Imma et Berme"
     },
     {
-      "src": "photos/fr15.jpg",
-      "caption": "fr15"
+      "src": "photos/Avec Marie-Jo.jpg",
+      "title": "Avec Marie Jo"
     },
     {
-      "src": "photos/fr16.jpg",
-      "caption": "fr16"
+      "src": "photos/Avec,Marie-Jo.jpg",
+      "title": "Avec,Marie Jo"
+    },
+    {
+      "src": "photos/AvecBerm.jpg",
+      "title": "AvecBerm"
+    },
+    {
+      "src": "photos/AvecBerme.jpg",
+      "title": "AvecBerme"
+    },
+    {
+      "src": "photos/AvecImma.jpg",
+      "title": "AvecImma"
+    },
+    {
+      "src": "photos/AvecKethia.jpg",
+      "title": "AvecKethia"
+    },
+    {
+      "src": "photos/AvecMarie-Jo et Berme.jpg",
+      "title": "AvecMarie Jo et Berme"
+    },
+    {
+      "src": "photos/AvecMarie-Jo.jpg",
+      "title": "AvecMarie Jo"
+    },
+    {
+      "src": "photos/AvecMarie.jpg",
+      "title": "AvecMarie"
+    },
+    {
+      "src": "photos/AvecMarieJo.jpg",
+      "title": "AvecMarieJo"
     },
     {
       "src": "photos/fr17.jpg",
-      "caption": "fr17"
-    },
-    {
-      "src": "photos/fr18.jpg",
-      "caption": "fr18"
-    },
-    {
-      "src": "photos/fr2.jpg",
-      "caption": "fr2"
-    },
-    {
-      "src": "photos/fr3.jpg",
-      "caption": "fr3"
-    },
-    {
-      "src": "photos/fr4.jpg",
-      "caption": "fr4"
-    },
-    {
-      "src": "photos/fr5.jpg",
-      "caption": "fr5"
-    },
-    {
-      "src": "photos/fr6.jpg",
-      "caption": "fr6"
-    },
-    {
-      "src": "photos/fr7.jpg",
-      "caption": "fr7"
-    },
-    {
-      "src": "photos/fr8.jpg",
-      "caption": "fr8"
-    },
-    {
-      "src": "photos/fr9.jpg",
-      "caption": "fr9"
+      "title": "Fr17"
     },
     {
       "src": "photos/IMG-20260929-WA0029.jpg",
-      "caption": "IMG 20260929 WA0029"
+      "title": "IMG 20260929 WA0029"
     },
     {
       "src": "photos/IMG-20260929-WA0030.jpg",
-      "caption": "IMG 20260929 WA0030"
+      "title": "IMG 20260929 WA0030"
     },
     {
       "src": "photos/IMG-20261001-WA0006.jpg",
-      "caption": "IMG 20261001 WA0006"
+      "title": "IMG 20261001 WA0006"
     },
     {
       "src": "photos/IMG-20261001-WA0009.jpg",
-      "caption": "IMG 20261001 WA0009"
+      "title": "IMG 20261001 WA0009"
     },
     {
       "src": "photos/IMG-20261001-WA0015.jpg",
-      "caption": "IMG 20261001 WA0015"
+      "title": "IMG 20261001 WA0015"
     },
     {
       "src": "photos/IMG-20261001-WA0017.jpg",
-      "caption": "IMG 20261001 WA0017"
+      "title": "IMG 20261001 WA0017"
     },
     {
       "src": "photos/IMG-20261001-WA0023.jpg",
-      "caption": "IMG 20261001 WA0023"
-    },
-    {
-      "src": "photos/IMG-20261001-WA0024.jpg",
-      "caption": "IMG 20261001 WA0024"
+      "title": "IMG 20261001 WA0023"
     },
     {
       "src": "photos/IMG-20261001-WA0025.jpg",
-      "caption": "IMG 20261001 WA0025"
+      "title": "IMG 20261001 WA0025"
     },
     {
       "src": "photos/IMG-20261001-WA0027.jpg",
-      "caption": "IMG 20261001 WA0027"
+      "title": "IMG 20261001 WA0027"
     },
     {
       "src": "photos/IMG-20261001-WA0028.jpg",
-      "caption": "IMG 20261001 WA0028"
+      "title": "IMG 20261001 WA0028"
     },
     {
       "src": "photos/IMG-20261005-WA0043.jpg",
-      "caption": "IMG 20261005 WA0043"
+      "title": "IMG 20261005 WA0043"
     },
     {
       "src": "photos/IMG-20261005-WA0045.jpg",
-      "caption": "IMG 20261005 WA0045"
+      "title": "IMG 20261005 WA0045"
+    },
+    {
+      "src": "photos/Marie-Jo, Kethia,Imma,Taty et Berme.jpg",
+      "title": "Marie Jo, Kethia,Imma,Taty et Berme"
     }
   ],
   "videos": [
     {
-      "src": "videos/VID-20261001-WA0026.mp4",
-      "title": "VID 20261001 WA0026"
+      "src": "videos/Avec Berme (2).mp4",
+      "title": "Avec Berme (2)"
     },
     {
-      "src": "videos/VID-20261001-WA0030.mp4",
-      "title": "VID 20261001 WA0030"
+      "src": "videos/Avec Berme (3).mp4",
+      "title": "Avec Berme (3)"
     },
     {
-      "src": "videos/VID-20261001-WA0034.mp4",
-      "title": "VID 20261001 WA0034"
+      "src": "videos/Avec Berme.mp4",
+      "title": "Avec Berme"
     },
     {
-      "src": "videos/VID-20261001-WA0037.mp4",
-      "title": "VID 20261001 WA0037"
+      "src": "videos/Avec Imma.mp4",
+      "title": "Avec Imma"
     },
     {
-      "src": "videos/VID-20261001-WA0038.mp4",
-      "title": "VID 20261001 WA0038"
+      "src": "videos/Avec Kethia,Marie-Jo et Berme.mp4",
+      "title": "Avec Kethia,Marie Jo et Berme"
     },
     {
-      "src": "videos/VID-20261001-WA0039.mp4",
-      "title": "VID 20261001 WA0039"
+      "src": "videos/Avec Kethia,Marie-Jo et Berme2.mp4",
+      "title": "Avec Kethia,Marie Jo et Berme2"
     },
     {
-      "src": "videos/VID-20261001-WA0040.mp4",
-      "title": "VID 20261001 WA0040"
+      "src": "videos/Avec Kethia,Marie-Jo et.mp4",
+      "title": "Avec Kethia,Marie Jo et"
     },
     {
-      "src": "videos/VID-20261001-WA0041.mp4",
-      "title": "VID 20261001 WA0041"
+      "src": "videos/Avec Kethia,Marie-Jo,Ttay, Kethia.mp4",
+      "title": "Avec Kethia,Marie Jo,Ttay, Kethia"
     },
     {
-      "src": "videos/VID-20261001-WA0042.mp4",
-      "title": "VID 20261001 WA0042"
+      "src": "videos/Nous Toutes.mp4",
+      "title": "Nous Toutes"
     },
     {
-      "src": "videos/VID-20261001-WA0043.mp4",
-      "title": "VID 20261001 WA0043"
+      "src": "videos/Yourself.mp4",
+      "title": "Yourself"
     }
   ]
 };
